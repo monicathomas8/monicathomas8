@@ -32,17 +32,6 @@ Freelance web developer building clean, conversion-focused websites - Shopify, W
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=monicathomas8&show_icons=true&theme=default&hide_border=true&title_color=6C757D&icon_color=6C757D&text_color=444444&bg_color=ffffff" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monicathomas8&layout=compact&theme=default&hide_border=true&title_color=6C757D&text_color=444444&bg_color=ffffff" />
-
-</div>
-
----
-
 <img width="586" alt="Screenshot 2025-05-24 190412" src="https://github.com/user-attachments/assets/6f94dc37-8d5c-48a9-9349-f5a1f742f5c7" />
 
 ### A little more about me...
