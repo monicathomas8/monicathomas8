@@ -45,13 +45,16 @@ Freelance web developer building clean, conversion-focused websites - Shopify, W
 
 <img width="586" alt="Screenshot 2025-05-24 190412" src="https://github.com/user-attachments/assets/6f94dc37-8d5c-48a9-9349-f5a1f742f5c7" />
 
+### A little more about me...
 
-- 🔭 I’m currently doing: Freelance Web Developer 🛍️
-- 🎉 I've just finished working on: A custom build service site for a client
-- 🌱 I’m currently learning: React and a deeper dive into frontend frameworks
-- 👯 I’m looking to collaborate on: Front-end projects and website maintenance services  
-- 🤔 I’m looking for help with: Growing my website business  
-- 💬 Ask me about: Transitioning from beauty industry management to tech, or anything about full-stack learning  
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/monica101)
-- 😄 Pronouns: She/Her  
-- ⚡ Fun fact: I have a cheeky Labrador named Max who goes to daycare while I code / work 🐶💻
+- 🔭 Currently working on: Freelance web projects 🛍️
+- 🌱 Currently learning: React and a deeper dive into frontend frameworks
+- 👯 Looking to collaborate on: Front-end projects and website maintenance
+- 💬 Ask me about: Transitioning into tech, or anything full-stack learning
+- 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/monica101)
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I have a cheeky Labrador named Max he is my PAWject Manger 🐶💻
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=footer&animation=fadeIn" />
